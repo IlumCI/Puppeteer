@@ -1,0 +1,22 @@
+# PuppeteerSwarm Dependencies
+# ===========================
+
+# Core Dependencies (Required)
+numpy>=1.21.0
+jax>=0.4.0
+jaxlib>=0.4.0
+flax>=0.7.0
+optax>=0.1.0
+swarms>=2.0.0
+
+# Optional Dependencies
+# ---------------------
+# Uncomment the dependencies you need:
+
+# Reward Model Encoding (for transformer-based state encoding)
+# transformers>=4.30.0
+# torch>=2.0.0
+
+# Graph Visualization (for agent interaction graphs)
+# networkx>=3.0
+# matplotlib>=3.7.0
